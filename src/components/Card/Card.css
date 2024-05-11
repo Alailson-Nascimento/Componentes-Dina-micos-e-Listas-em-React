@@ -1,0 +1,20 @@
+.card{
+    border:1px solid  black;
+    border-radius: 8px;
+    padding: 16px;
+    text-align: center;
+    width:300px;
+    box-shadow:3px 3px black;
+    background-color: darksalmon;
+    transition: all 0,15s ease-out;
+  }
+  .card:hover{
+    translate: -3px -3px;
+    background-color: cornflowerblue;
+    
+  
+  }
+  
+  .card h1{
+  font-family: Arial, Helvetica, sans-serif;
+  }
